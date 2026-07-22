@@ -236,5 +236,5 @@ A **Full Stack Developer** and **Android Security Specialist** based in **Bandar
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6&height=120&section=footer" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt=""/>
 </div>
