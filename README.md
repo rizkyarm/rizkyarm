@@ -29,7 +29,7 @@
 
 ---
 
-## 👋 Hi, I am Rizki Aditiya Ramadan (Rar)
+## 👋 Hi, I am Rizki Aditiya
 
 <p align="center">
   <a href="https://git.io/typing-svg">
