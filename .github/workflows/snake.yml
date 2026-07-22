@@ -1,5 +1,5 @@
 name: Generate Snake Animation
-
+# This workflow generates a snake animation of the GitHub contribution graph and pushes it to the `output` branch.
 on:
   schedule:
     # Runs every 12 hours

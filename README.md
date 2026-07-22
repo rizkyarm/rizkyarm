@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rizki%20Aditiya%20Ramadan&fontSize=45&fontAlignY=35&descAlignY=55&animation=fadeIn" width="100%" alt="Rizki Aditiya Ramadan — Full Stack Developer and Android Specialist from Bandar Lampung, Indonesia"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rizki%20Aditiya%20Ramadan&fontSize=45&fontAlignY=35&descAlignY=55&animation=fadeIn" width="100%" alt="Rizki Aditiya — Full Stack Developer and Android Specialist from Bandar Lampung, Indonesia"/>
 </div>
 
 <p align="center">
@@ -24,9 +24,6 @@
   </a>
   <a href="https://instagram.com/rizkiaditiyaramadan" title="Instagram Rizki Aditiya Ramadan">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Rizki Aditiya Ramadan"/>
-  </a>
-  <a href="https://youtube.com/@rizkiaditiyaramadan" title="YouTube Rizki Aditiya Ramadan">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel Rizki Aditiya Ramadan"/>
   </a>
 </p>
 
@@ -225,7 +222,7 @@ A **Full Stack Developer** and **Android Security Specialist** based in **Bandar
   </p>
   <p>
     <strong>📧 Email:</strong>
-    <a href="mailto:rizkiaditiyaramadan@email.com">rizkiaditiyaramadan@email.com</a>
+    <a href="mailto:rizkiaditiyaramad@email.com">rizkiaditiyaramadan@email.com</a>
   </p>
   <br/>
   <p><em>✨ Open for collaborations, freelance projects, and exciting opportunities — let us build something amazing together!</em></p>
