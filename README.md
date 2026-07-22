@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6&height=200&section=header&text=Rizki%20Aditiya%20Ramadan&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20Android%20Specialist&descAlignY=55&animation=fadeIn" width="100%" alt="Rizki Aditiya Ramadan — Full Stack Developer & Android Specialist from Bandar Lampung, Indonesia"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rizki%20Aditiya%20Ramadan&fontSize=45&fontAlignY=35&descAlignY=55&animation=fadeIn" width="100%" alt="Rizki Aditiya Ramadan — Full Stack Developer and Android Specialist from Bandar Lampung, Indonesia"/>
 </div>
 
 <p align="center">
@@ -56,7 +56,7 @@ A **Full Stack Developer** and **Android Security Specialist** based in **Bandar
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rizkyarm&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" alt="GitHub Trophies Rizky Arm — Stars Followers Commits Repositories" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=rizkyarm&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies Rizky Arm — Stars Followers Commits Repositories" width="100%"/>
   </a>
 </p>
 
