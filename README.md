@@ -52,7 +52,7 @@ A **Full Stack Developer** and **Android Security Specialist** based in **Bandar
 
 ---
 
-## 🏆 GitHub Achievements
+<!-- ## 🏆 GitHub Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -61,6 +61,7 @@ A **Full Stack Developer** and **Android Security Specialist** based in **Bandar
 </p>
 
 ---
+-->
 
 ## 🛠️ Tech Stack & Tools
 
@@ -122,7 +123,7 @@ A **Full Stack Developer** and **Android Security Specialist** based in **Bandar
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/rizkyarm" title="GitHub Stats Rizky Arm">
@@ -146,6 +147,7 @@ A **Full Stack Developer** and **Android Security Specialist** based in **Bandar
 </div>
 
 ---
+-->
 
 ## 🐍 Contribution Snake Animation
 
