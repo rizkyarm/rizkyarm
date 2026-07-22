@@ -126,7 +126,7 @@ A **Full Stack Developer** and **Android Security Specialist** based in **Bandar
 
 <div align="center">
   <a href="https://github.com/rizkyarm" title="GitHub Stats Rizky Arm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizkyarm&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Rizky Arm GitHub Stats — Commits, Stars, PRs, Contributions"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizkyarm&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rizky Arm GitHub Stats — Commits, Stars, PRs, Contributions"/>
   </a>
   <a href="https://github.com/rizkyarm" title="Most Used Languages Rizky Arm">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyarm&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Programming Languages Rizky Arm — Kotlin, Java, C++, Dart, TypeScript"/>
